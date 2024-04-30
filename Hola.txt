@@ -1,2 +1,0 @@
-Hola, este es un ejercicio para revisar el comando git add y git commit 
-Saludos
